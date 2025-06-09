@@ -28,7 +28,7 @@
 <h3>📌 Interests</h3>
 
 - Responsive design and smooth user experience  
-- Building full-stack apps using React, Next.js, and Firebase  
+- Building full-stack apps using React, Next.js, and Node.js  
 - Integrating email services, image uploads, and queues  
 - Passionate about frontend frameworks and clean code practices
 
